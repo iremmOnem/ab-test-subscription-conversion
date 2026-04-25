@@ -44,12 +44,14 @@ Conversion trend over time
 🎓 Experiment Design Document
 
 Full A/B test plan including hypothesis, metrics definition, and experimental setup:
+
 👉 Google Drive Document (A/B Test Plan – Subscription Screen Optimization)
 👉 https://docs.google.com/presentation/d/1G1w6jlAzAmWVt0Ndq-px6bXZnM4-spl9mQ-b7-mNHAI/edit?usp=sharing 
 
 📘 Additional Documentation
 
 Detailed A/B test planning document:
+
 👉 https://docs.google.com/document/d/1Z0m_h_yfMNMuwcofCNl3xz7ottK2ezOX1ekD_doC4oo/edit?usp=sharing 
 
 📌 Key Findings
